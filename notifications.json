@@ -1,16 +1,16 @@
 {
     "notifications": [
         {
-            "id": 1,
-            "title": "🎉 Update is available!",
+            "id": ada,
+            "title": "🎉 Update is available!,
             "message": "Version 1.2 is now available. This update includes several performance improvements.",
             "button": "Update Now",
-            "url": "http://axwt.com/",
+            "url": "http://axwt.com/,
             "date": "2023-11-20",
             "expiration": "2023-12-20",
             "color": "#0367E0",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
-            "type": "inline"
+            "type": "inline
         },
         {
             "id": 2,
