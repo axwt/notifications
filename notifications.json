@@ -1,5 +1,6 @@
 {
-    "notifications": [{
+    "notifications": [
+        {
             "id": 1,
             "title": "🎉Update is available!",
             "message": "Version 1.2 is now available. This update includes several performance improvements.",
@@ -7,21 +8,21 @@
             "url": "http://axwt.com/",
             "date": "2023-11-20",
             "expiration": "2023-12-20",
-            "color": "#DE3D82",
+            "color": "#FF0000",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
-            "type": "modal"
+            "type": "inline"
         },
         {
             "id": 2,
             "title": "🎁 Collect 'em all!",
-            "message": "Pika-Pika! Find a perfect MOGRT for your project! Use promo code ”CYBER_MOGRT” to Get a 25% discount for all MOGRT files in our store.",
+            "message": "Pika-Pika! Find a perfect MOGRT for your project! Use promo code ”CYBER_MOGRT” to get a 25% discount for all MOGRT files in our store.",
             "button": "Go Shopping",
             "url": "https://motion.land/",
             "date": "2023-11-18",
             "expiration": "2023-12-25",
-            "color": "#0057BE",
+            "color": "#0078d4",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
-            "type": "inline"
+            "type": "modal"
         }
     ],
     "lastUpdated": "2023-11-20"
