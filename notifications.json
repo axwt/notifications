@@ -23,7 +23,21 @@
             "color": "#DE3D82",
             "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/0a4758d7-62e2-4563-e049-566b1e453b00/2000",
             "type": "modal"
+        },
+        {
+            "id": 3,
+            "title": "🆕 Hidden update",
+            "message": "Version 1.2.5 is available! Lots of new sweet improvements.",
+            "button": "Update here",
+            "url": "https://motion.land/",
+            "date": "2024-01-23",
+            "expiration": "2024-03-25",
+			"ignoreVersion": "1.1.6",
+            "color": "#DE3D82",
+            "image": "https://imagedelivery.net/GT5IB3iPiL2G1hIoKXmbxw/be226438-12b3-4aea-603a-71718b81e700/2000",
+            "type": "modal"
         }
+        
     ],
-    "lastUpdated": "2023-11-20"
+    "lastUpdated": "2024-01-23"
 }
