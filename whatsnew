@@ -1,0 +1,24 @@
+{
+	"header": "New inside 1.2.4",
+	"version": "1.2.4",
+	"newFeatures": [
+	  {
+		"header": "[PRO] Opt out from Notifications",
+		"description": "You can now opt out from notifications in the Aeviewer settings under \"Appearance\" section",
+		"url": "https://example.com/changelog",
+		"image": "https://raw.githubusercontent.com/axwt/mogrt-extractor/main/media/automator.png"
+	  },
+	  {
+		"header": "Better AEP import",
+		"description": "If imported AEP doesn't have \"Aeviewer\" comment added, Aeviewer will import the first comp from the root folder.",
+		"url": "https://example.com/changelog",
+		"image": "./img/changelog/6.png"
+	  },
+	  {
+		"header": "Bug fixes",
+		"description": "• Import to the selected folder in Premiere Pro\n• Names sorting in Packages\n• File preview when opening the folder\n• Sequence detection\n• Previews for FFX and AEP\n• Settings compatibility",
+		"url": "https://example.com/changelog",
+		"video": "https://github.com/axwt/mogrt-extractor/blob/main/media/action-demo.mp4"
+	  }
+	]
+  }
