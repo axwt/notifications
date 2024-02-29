@@ -18,7 +18,7 @@
 		"header": "Bug fixes",
 		"description": "• Import to the selected folder in Premiere Pro<br>• Names sorting in Packages<br>• File preview when opening the folder<br>• Sequence detection<br>• Previews for FFX and AEP<br>• Settings compatibility",
 		"url": "https://example.com/changelog",
-		"video": "https://github.com/axwt/mogrt-extractor/blob/main/media/action-demo.mp4"
+		"video": "https://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4"
 	  }
 	]
   }
