@@ -44,7 +44,7 @@
             "button": "Update here",
             "url": "https://motion.land/",
             "aescripts": "https://aescripts.com/downloadable/customer/products/",
-            "date": "2024-07-23",
+            "date": "2024-07-28",
             "expiration": "2024-08-10",
             "ignoreVersion": "1.3.1",
             "color": "#DE3D82",
@@ -53,5 +53,5 @@
         }
         
     ],
-    "lastUpdated": "2024-01-23"
+    "lastUpdated": "2024-07-28"
 }
